@@ -1,0 +1,17 @@
+{
+    "Name": "NeuroTask - Two Workspace Random Target: A Benchmark Dataset for Multi-Task, -Session and -Subject Neural Analysis",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "NeuroTask is a benchmark dataset designed to facilitate the development of accurate and efficient methods for analyzing multi-session, multi-task, and multi-subject neural data. NeuroTask integrates 6 datasets from motor cortical regions, covering 7 tasks across 17 subjects.\nCheck out the github repository for more resources and some example notebooks: https://github.com/catniplab/NeuroTask/tree/nwb\n\nThis dataset includes:\n- Spike counts per unit\n- Behavioral data (hand/cursor position, velocity, force)\n- Events indications\n",
+    "DatasetType": "raw",
+    "Authors": [],
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.9.1.dev27+gf0fb7253c",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}
